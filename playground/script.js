@@ -165,3 +165,10 @@ console.log("connected")
 //     xabcd()
 // }
 // abcd()
+
+
+var demo = [45, 90, 38, 100]
+
+demo.forEach(function(elem, elem2){
+    // console.log(elem2, elem )
+})
